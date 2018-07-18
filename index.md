@@ -12,11 +12,11 @@
 [feat matching loss (1.0 weighting)](https://crowstar.github.io/results/feat10_stap/test_latest/index.html)
 
 ### Synthia
-[no feature matching loss](https://crowstar.github.io/results/feat0_syn/test_latest/index.htm)
+[no feature matching loss](https://crowstar.github.io/results/feat0_syn/test_latest/index.html)
 
-[feature matching loss (0.5 weighting)](https://crowstar.github.io/results/feat5_syn/test_latest/index.htm)
+[feature matching loss (0.5 weighting)](https://crowstar.github.io/results/feat5_syn/test_latest/index.html)
 
-[feature matching loss (1.0 weighting)](https://crowstar.github.io/results/feat10_syn/test_latest/index.htm)
+[feature matching loss (1.0 weighting)](https://crowstar.github.io/results/feat10_syn/test_latest/index.html)
 
 
 ## UNIT
